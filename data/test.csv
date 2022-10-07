@@ -1,0 +1,1242 @@
+session,video,segment,text,label,annotation
+Session5,Ses05F_impro01,Ses05F_impro01_F000,"Hi, I need an ID.",3,neu
+Session5,Ses05F_impro01,Ses05F_impro01_M000,"ahh Yeah, this is the wrong line. I'm sorry. You need to go back over to line two B. That's where you should have started from.",3,neu
+Session5,Ses05F_impro01,Ses05F_impro01_M003,"Well, I have no camera here. I can't help you at all here, ma'am. I have forms for something completely different. You need to go to a different place.",3,neu
+Session5,Ses05F_impro01,Ses05F_impro01_F008,"So could I maybe get the form from you, fill it out here- and maybe you could-",3,neu
+Session5,Ses05F_impro01,Ses05F_impro01_F017,Isn't there anything you can do? Just call over and ask them if I can go to the front of the line in the other line.,0,ang
+Session5,Ses05F_impro01,Ses05F_impro01_F018,Why not?,0,ang
+Session5,Ses05F_impro01,Ses05F_impro01_F020,"Right, well, last time they told me, it was this line, and obviously, it's not true.",0,ang
+Session5,Ses05F_impro02,Ses05F_impro02_M000,What is it?,3,neu
+Session5,Ses05F_impro02,Ses05F_impro02_F001,um.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F002,I'm sorry. It's just a lot ahh to explain. ahh I got a call--,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F004,"I got a call today,",1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F005,I'm going to need to go overseas for a while.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M004,You got called up.,0,ang
+Session5,Ses05F_impro02,Ses05F_impro02_M005,I thought you said this wasn't going to happen for at least a year.,0,ang
+Session5,Ses05F_impro02,Ses05F_impro02_F008,"I don't know ""sigh"".",1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F009,I know. I know.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F010,"I know. Well, we'll have to figure all that out. I mean, I think the Army's going to provide childcare and help us out with that. um.",1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M010,Where do you have to go? Where are you going?,0,ang
+Session5,Ses05F_impro02,Ses05F_impro02_F011,Iraq.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F012,I think infantry. I'm not sure.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M014,I don't understand why they would just do something like this?,0,ang
+Session5,Ses05F_impro02,Ses05F_impro02_M015,It doesn't make any sense. It's stupid. I told you you shouldn't go in the Army.,0,ang
+Session5,Ses05F_impro02,Ses05F_impro02_F021,I don't think there's anything we can do.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M024,I'll tell them I'm sick and that you can't leave something.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M025,It's not fair.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F023,I know. I know it's not fair.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M026,Why has to be you? There's all those other people. Somebody else can go instead. It's not right.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F024,"Well, apparently nobody else can go.",1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M029,I understand. I'm worried about you. I don't know what's going to happen to you.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F027,I know.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F028,I know.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M031,I jus-,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F029,We'll figure something out. We just have to ... we just have to think about this. Could any of your family help us?,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M032,I don't know.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M033,Yeah. I guess. I don't know what they're going to say.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M034,"Yeah, we'll call them. We'll figure something out. I'm sorry, I'm sorry, I'm sorry. You're right.",1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F031,I'm going to miss their first words.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M035,I know.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F032,You'll have to send me pictures and letters everyday.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M036,"All the time, every day, every day. They have e-mail over there and stuff like that, right? I can send you pictures.",1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F034,"Yeah, as much as I can.",1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F035,"""sigh"" Three weeks.",1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F036,Yeah.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F037,Yeah.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_M041,I love you.,1,sad
+Session5,Ses05F_impro02,Ses05F_impro02_F038,"I love you. I'm going to miss you so much. ""sigh""",1,sad
+Session5,Ses05F_impro03,Ses05F_impro03_F000,"Okay, so big news.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M000,What?,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M001,"Come on, what?",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F001,I'm getting married.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F002,Yeah.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M003,No way.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F003,Yeah.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F004,Uh-huh.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M005,"No way, when? when,when, When did it happen?",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F005,Just a couple days ago.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M006,Oh my gosh.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M007,And you actually said yes. I can't believe it. I never thought you would get married.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F007,I know me neither.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M008,Oh my gosh.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F008,"Right, I thought I would be way older too. I thought I would be I be at least thirty something.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M009,Oh absolutely.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M010,"Well, we always said we'd be in our thirtieth when we got married. And we were going to get married to each other if we didn't by then",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F009,Yeah.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M011,"Thirty nine, yeah. I can't believe it. So you broke our pact. Thanks a lot.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F011,Sorry.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M012,"Thanks a lot. Well, okay, you've got to tell me the details. What did he say? Where was it? What happened?",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M013,"Okay. That's okay, spontaneous is great. Spontaneous is awesome.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M020,Am I in it?,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F020,"Yeah. Yeah, of course.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M027,"Cool, perfect. Another Chicagoite, got to love it.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F027,"It's so weird too, right, that like you can grow up so near somebody and never know them until you travel hundreds of miles away.",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F028,I know,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F029,"Right, being like oh, where are you from? The U.S. Where in the U.S.? Chicago. Where in Chicago?",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M030,[LAUGHTER] I am sil,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F030,"Knowing the neighborhood. Yeah, it's pretty bizarre.",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M031,And now you're getting married.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F031,Yeah.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M032,That is amazing. You must be so excited. Did you tell your mom?,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F032,Mm-hmm.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M033,"Oh, did she cry?",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F033,"Yeah, she loves him.",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F034,"Yeah, she-yeah, that's my type.",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M035,[BREATHING],2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M036,you.. I can't believe it. I'm so happy for you. This is exactly what you wanted. It's your dream come true.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F035,Thank you.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M037,"The exact right guy, I fully approve. He's a wonderful guy. We have a great time. He can drink. That's awesome.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F036,[LAUGHTER],2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M038,[LAUGHTER],2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F037,"Yeah, we all have to hang out now.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M039,"Of course, of course she will ... of course she will. Yeah, don't go and disappear like everyone else after they get married and I never see them again. That'll make me mad. You don't want to make me mad. You know how I get when I get mad.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M040,Exactly.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M041,"Exactly, ""laugh"".",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F039,Sorry.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F040,There's still time for that.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M043,"Oh, thanks. move here before you get married [LAUGHTER]",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F041,[BREATHING],2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M044,"Perfect, okay, good. ""sigh""",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M045,"I don't feel so bad then. Well, I'm excited for you.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F042,I know. I can't believe it.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M046,I can't believe it.,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F043,I am very excited,2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_M049,So I was one of the first ones? That makes me feel so important.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F046,I have to think about moving now. We're going to move in together,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M050,"Oh yeah, of course.",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F047,I think it's a good idea to live together before you get married.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M051,"I think so, too. Are you going to get a house or-",2,exc
+Session5,Ses05F_impro03,Ses05F_impro03_F048,"I don't want a house, I mean just-",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F049,L.A. apartment is fine.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F051,"Two artists, though. We're bound to be poor forever.",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M057,yeah.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M058,yeah.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F053,Definitely not for a while,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F054,yeah.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F055,[LAUGHTER] Good luck.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M060,[LAUGHTER],2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M061,"Oh, thanks. I'll need it.",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F056,"You won't have trouble, You won't have trouble.",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M062,"Oh thanks, you're too nice",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M063,just being polite now,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F057,"You should just approach her like that. Hey, will you bear my children?",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M064,because I am not getting married.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M065,"Exactly, [LAUGHTER] I think that'll go over great, don't you?",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F058,"Yeah, totally.",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M066,"That's what girls like, right?",2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F059,Total turn on.,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M067,Would you mind popping out a few for me?,2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_F060,[LAUGHTER],2,hap
+Session5,Ses05F_impro03,Ses05F_impro03_M068,"That'd be great, thanks.",2,hap
+Session5,Ses05F_impro04,Ses05F_impro04_F000,"Brian, I need help.",1,sad
+Session5,Ses05F_impro04,Ses05F_impro04_M000,"Babe, I don't know what to tell you. Don't give up.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M001,"Well, of course not, but what are you going to do if you move back home? Are you going to be able to find a job there?",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M003,I went to school and I got my degree. And I got a job.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M004,Nothing's impossible.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M005,You have to be willing - You have to be willing to start you know at the bottom and work your way up. and,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M007,"No, it doesn't pay the bills, but it would pay something. And it would help you get somewhere else.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F008,I still can't live on in six seven and five. It's not possible in Los Angeles. Housing is too expensive.,0,ang
+Session5,Ses05F_impro04,Ses05F_impro04_M008,"and No, I understand, but you've got to start somewhere. It's better than nothing and that's all you have. You have nothing right now.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M009,"Wait, You can move up. There's management programs in McDonalds and things like that.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M010,"[GARBAGE] No, I wouldn't, but I--",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M011,"Well, you know what? Life gets humili... humiliating at times.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M012,"Well, what are you going to do about it to make it different?",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M013,Have you? There's got to be something else.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F015,I'm just so scared to start over I mean. I put so much time and energy into being here.,1,sad
+Session5,Ses05F_impro04,Ses05F_impro04_F016,"Where am I supposed to go? I mean, like what?",1,sad
+Session5,Ses05F_impro04,Ses05F_impro04_M015,"If it's rent or something like that, I mean I can help you out a little bit, if- if that will help you you know stick with it.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F017,I don't know. Maybe I can take out a loan. I just- I need prospects and I don't feel like I have any.,1,sad
+Session5,Ses05F_impro04,Ses05F_impro04_M016,"Well, just don't give up. And there's- you know, You never know, something might be around the corner tomorrow.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M017,"Well, you know I'm not going to let you starve.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F019,I'm just worried.,1,sad
+Session5,Ses05F_impro04,Ses05F_impro04_M020,"It's the way it seems to me. You started complaining about not being able to find a job the first day you went out and didn't find a job. And I'm not saying like and not trying to you know put you down or anything, it's just that-",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F022,That's really hard to hear.,1,sad
+Session5,Ses05F_impro04,Ses05F_impro04_F023,I feel like I have faith and now faith is running thin because there is no money.,1,sad
+Session5,Ses05F_impro04,Ses05F_impro04_M022,"Well, exactly. Money is not everything.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M024,You know I would never let that happen. I wouldn't let that happen.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M025,"You can always stay with me if you- if you have to stay with me for a while and get yourself back up on your feet again. You know I'm not just going to you know just throw you to the wolves or something like that. If there's any way I can help you, I will.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M026,But you have to keep trying. You can't give up.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M027,"And you've got to think--well, ask yourself why are they not hiring you?",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M028,I mean are you going in for interviews?,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M029,Are you presenting-,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M030,putting your best foot forward? or you,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M031,"Do they seem to like you? I mean, Can you get any read from them?",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M032,Have you ever called them back and asked why you didn't get the job?,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M033,Do they give you any specifics as to why they didn't go with you?,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M034,"Yeah, I understand. maybe What jobs are we talking about?",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M035,Like- What's your ideal job? What do you want to do?,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F038,"Well, I'd like to be a working actor.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M036,Of course.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F039,But um--,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M037,"Everyone wants to be a working actor, but they all work at something else.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F040,Yeah.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M038,So what's the something else?,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F041,"Bartending, catering.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M039,"You can't get a catering gig? Well, I can call some friends. I- Well, I did call some friends before, but you went in once and then never went back.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F042,Would you be willing to make some more calls on my behalf? I won't--I won't make you look bad.,1,sad
+Session5,Ses05F_impro04,Ses05F_impro04_M040,If I- If you- Will you stick with it?,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F043,yeah.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M041,"Okay. Okay, I'll call some people.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F044,Thank you.,3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M042,"But you've got to keep looking for other stuff. You've got to do it on your own, too. Okay?",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_F045,"I will, I will.",3,neu
+Session5,Ses05F_impro04,Ses05F_impro04_M043,You know I'll always help you.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F000,"Hi,um- I think my baggage was lost, and I need to I guess file a claim or I don't know what.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M000,"Okay, what flight were you on?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F001,Um-Seventeen. Coming from --,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M001,On what airline?,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F002,It was Virgin Atlantic coming from London.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M002,"From London, okay. Um- And you went through all your proper checkpoints?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M003,So you haven't seen your bags since Africa. You flew threw Heath Row to here.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F004,Right.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F005,Yeah.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M004,"Okay. Well, let me see here. I-",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M005,It seems like it went through Heath Row. I see it here. uh-,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F006,That's good.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M006,But uh- I don't see it here in the airport yet. uh,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M007,I'm not sure where it is. We can absolutely keep an eye out for for it for you.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F007,"Well, I can't leave without it. I mean, Could you find out?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M008,"Well, I'm not a miracle worker. I don't know what I can do for you. I don't have the bag right here.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M009,"Well, as I told you, it left Heath Row and it seems to have arrived here. But if you can't find it, then-are you sure you know what your bag looks like?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M010,"Okay, and what is that? What kind of bag is it?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F010,Um- It's a travel backpack. It's green and gray. It's got my name on it and my information.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M012,Are you sure?,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M014,"All right? Now, um- it's green, travel bag, you couldn't find it. And was there something important in it that you need it?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M015,Sentimental value.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M016,"Right. Well, I don't know what to tell you. Um- What I can offer you is a fifty dollar voucher on your next flight.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M017,"No, I understand. I mean. It's got to be tough all those sentimental things, but um- this is all I can do for you.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M018,"Well, you know, sometimes that's--really, I mean what else could we do?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F018,Uh- Not lose the baggage in the first place. I mean You're offering a service here. I paid so much money for that ticket.,0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_M019,"Well,",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M022,"Let's- Let's just relax for a moment, ma'am. You understand, obviously, we're going to do everything we can to keep all of your luggage here.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M023,"Obviously, we're not trying to lose your luggage. Do you really believe that we're trying to lose your luggage ma'am?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F019,"No, but I mean like why can't- why can't you find it? Where did it go? Who lost it?",0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_F020,"Well, I just-I paid so much money for this ticket. I feel like you guys should be able to get-to offer me more than a fifty dollar voucher.",0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_M025,"Well, we're talking about one bag. You personally made it here, didn't you?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F021,"Yeah, meaning I didn't die in a fiery plane crash. How convenient, but um- I paid two thousand dollar to ride your airline, and I would really appreciate getting my bags there to my destination in one place.",0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_F022,"Right, but part of the agreement is that I'm paying so that I can take myself and my belongings with me.",0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_F023,And that you're going to transport them safely from one place to another.,0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_F024,"That's all you can offer me? I mean, my the stuff in there is worth way more than fifty dollar.",0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_M030,"Well, I understand that. Did you buy flight insurance?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M031,"Well, my hands are really tied then.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M032,"Well, it's like any kind of insurance. You don't-when you get it, then you get more. You know, Like if you--",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M033,"Well, of course not because you've got your backpack with you the whole time. Now, if you--you said this was a travel bag. Why weren't you carrying it on if it was so important?",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M034,"Uh, so it was really heavy.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M036,"I'm sorry, ma'am, there's nothing else I can do. My hands are really tied here. I really wish there was something else I could do for you.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F031,I don't believe that for a second.,0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_M037,Well I don't know why you wouldn't believe that.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M039,"Well, I have no way to give you more money. I'm giving you as much money as I can, and figuring- as far as figuring out where you bag is-",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F033,What do you mean as you can? Who makes up these rules?,0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_M040,makes up?,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F034,You're an autono- autonomous human being. You could- You could go into the com-,0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_M041,"The airline makes these rules, mom ma'am.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F041,"No, I don't think I am. I like have a whole bunch of stuff that means a lot to me, and I brought it you know from Africa. It's not like I can just go back and get it whenever I want.",0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_M048,Right.,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_F042,It's not like I can go to Kmart and buy another.,0,ang
+Session5,Ses05F_impro05,Ses05F_impro05_M050,"And while I really would love to be able to hand you your bag right now, obviously I can't do that.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M051,So you'd like the fifty dollar voucher?,3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M052,"Okay, just fill out these three forms, and um- you'll- we'll have that sent to you within the next three weeks and, of course, we'll definitely keep an eye out for your bag.",3,neu
+Session5,Ses05F_impro05,Ses05F_impro05_M053,You have a wonderful day.,3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F000,A good friend of mine passed away the other day.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M001,"Oh no, I'm so sorry. What happened?",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F001,"Oh they had some pretty progressive cancer,",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F002,"metastasized and it was old and they knew that it wasn't looking good, but-",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M002,That's the worst. I'm so sorry. Did you know him well?,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F003,Yeah. We were. Pretty close.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F004,[BREATHING],1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M003,"I am so sorry, It's-",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M004,It's the worst when they go like that. [GARBAGE] Was he young?,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F005,Kind of.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F006,"It's hard to watch when it's painful for them, you know.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M005,"Absolutely, absolutely.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M006,It's the think,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F007,"I just, I don't know.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M007,There's no reason for it.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F008,I know.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F009,And he could of... He was pretty awesome,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M008,Yeah? What'd he do? What did they do? How'd you know him?,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F010,"Uh, We grew up together.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M009,yeah.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M010,"Is he an actor too, or-?",3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F011,"Yeah, he kind of did a lot of things, but we acted together, sometimes.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F012,"I feel really bad for his family, you know.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M011,"Yes of course, of course.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F013,"It must be really, really hard to lose a child.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M012,Was he very close to his family?,3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F014,"Yeah. And they were really supportive, like through the whole process, but-",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M013,yeah.,3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F015,[BREATHING],1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F016,I can't imagine what his- what his parents are going through.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M014,Of course not. You have no idea what it's like to lose a kid.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F017,"Yeah, I'm just going to miss him.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F018,Thank you.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M017,Is there a funeral planned? or-,3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F019,"Yeah, they're going to do some sort of memorial service or something.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M018,"Cool, Well, If you want me to go with you, I will.",3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F020,Thanks.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M019,No problem.,3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F021,"It's really bizarre, you know, when you know somebody really well, and then...",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F022,something happens and they die and it's like-,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_F023,"really hard to imagine that like you're going to continue to live, and that person's just going to have stopped.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M020,"Right, it just doesn't make any sense, it's not real. It doesn't feel real.",1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M021,yeah.,3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F024,[BREATHING],1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M022,"Do you know what, it's going to pass,eventually, I mean it'll never pass, it'll always be there, and you'll always remember and everything like that, but you know. It'll get easier I guess.",3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F025,yeah.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M023,That's the best way to put it.,3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F026,It's hard to say good-bye.,1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M024,Absolutely.,3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F027,[BREATHING],1,sad
+Session5,Ses05F_impro06,Ses05F_impro06_M025,"Do you know what, if it was me that died, I'd really want you to be crying and being really upset too any way. So, I think you should definitely do this, because it's trying what it's supposed to be.",3,neu
+Session5,Ses05F_impro06,Ses05F_impro06_F029,yeah yeah.,1,sad
+Session5,Ses05F_impro07,Ses05F_impro07_F000,So guess what.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M000,what,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F001,I got into college.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M001,"Shut up. What'd you get, where'd you get accepted to? please",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F002,U.S.C..,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M002,"Oh, sweet.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F003,yeah.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M003,So you're not going to leave me.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F004,No.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M004,"oh, good good good good good good.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F005,I'll stay in town.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M005,Are you going to live on campus? Where are you going to live?,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F006,Uh- I don't know.,2,hap
+Session5,Ses05F_impro07,Ses05F_impro07_M006,Uh! stay over here. Like travel to school. because you are so close to me,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F007,"Well, I don't want to, I don't want to live with my mom.",3,neu
+Session5,Ses05F_impro07,Ses05F_impro07_M007,"Okay, you're right, you're right, you're right, right. Maybe we should get a place together.",2,hap
+Session5,Ses05F_impro07,Ses05F_impro07_F008,Whoa. What an idea. Where would you want to live?,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M008,That'll be awesome.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M009,"I don't know. Well. I wouldn't mind living by the U.S.C. campus, you know, but I'm not going to go to school right now, so.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M011,But I'd love to go all the US- all the U.S.C. parties and do all that crazy stuff with you.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F011,"Whoa, this is going to be so much fun.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M012,it is going to be so much fun. Yes.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M013,Uh! I'm so happy that you're not going to go away.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F012,"Thank you. I know, I'm really, really, really excited.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M014,"Oh, I bet you're going to love it too. You always wanted to go to U.S.C..",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F013,"I know they have a really, really great program for what I want to do.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M015,"You're going to have so much fun. And there's lo- tons of people, you're going to meet so many people, I'm going to meet so many people too, because we're going to be there together.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F014,Can we for real live together?,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M016,"Sure, why not. I don't know why not, I'm not doing anything I have no plans, I could live anywhere I want.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F015,awesome.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F016,So should we get a place near campus? or-,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M017,That'll be great. That'll be great.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M018,"We should try to find, like, a party spot though, like you know where there's going to be a lot of parties, where there are cool people, though. Do you know any people that might be out there?",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F017,okay.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M019,"Yeah, me either.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M020,"[garbage] I know, I know, I know, we'll figure it out. Right? [garbage] it is going to be so much fun.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F021,It's going to be ridiculous. It's going to be so cool.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M021,"You can't make fun of me because I'm not going to school, though, because I'm going to be working though.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F023,"[LAUGHTER] Oh, I'm going to be working too, I mean.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F024,I- I hear the same.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M024,Woo- I I do.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F025,"I don't know how I feel about that, but-",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M025,I know exactly how you feel about that. I think you feel really excited about it. I know you are. I can tell. I know you.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F026,oh yeah.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F027,oh yeah.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M026,You're a wild and crazy woman.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F028,"[LAUGHTER] Oh, it'll be awesome, that's for sure.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M027,"Uh huh, it will be awesome.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F029,Better than if I'd picked up and moved to Boston.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M029,"living near the U.S.C. campus by myself, not going to school there. just really pathetic and sad.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F030,[LAUGHTER] by yourself.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F031,you'd be that kid,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F032,"living near campus, and not going to school.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M030,"Exactly. Mooching off of all like the college experiences, that would've been me but you have saved me from that disaster. Thank you. Thank you very much.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F033,[LAUGHTER],2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M031,"Oh, it's going to be so much fun.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F034,yeah.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M032,"Well, congratulations. and to me too, because now I get to-have-",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F035,We should go apartment shop-er-hunting.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M033,That's a good idea.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F036,Let's go tomorrow.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M034,"Tomorrow, tomorrow, tomorrow-",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F037,yeah.,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M035,"Good. We'll have to have one soon, you're going to have to go to school in a couple of months.",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F038,Woo-,2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_M036,"Oh God, it's awesome... There's going to be tons of places. [garbage]",2,exc
+Session5,Ses05F_impro07,Ses05F_impro07_F039,exciting.,2,exc
+Session5,Ses05F_impro08,Ses05F_impro08_F000,"Hi, sir. How can I help you?",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F001,Okay.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F002,"[LAUGHTER] All right. I'm sorry, sir that you've been having a hard time.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M004,"This is ridiculous. I- I seriously, I don't understand why you think these automated systems are supposed to like work for anybody. They have never, ever work for me.",0,ang
+Session5,Ses05F_impro08,Ses05F_impro08_F003,"I kwon, it is ridiculous",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F004,"yeah, I understand.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M005,"Can you like talk to somebody about this, can you like can you tell them that this is ridiculous and can they change it from now on, is there a phone number you have that I can call that will like automatically be talking to somebody a human being.",0,ang
+Session5,Ses05F_impro08,Ses05F_impro08_F005,Uh- when's when's-,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F007,"If yeah, well if you just slow down we'll um, we'll definitely have your problem solved and after we have your problem solved, then I can transfer you to a manager, someone who can you know, you can voice your complaint to, who will be able to something about it.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M007,"Like I know I paid last month, but it hasn't been paid and you charged me a late fee.",0,ang
+Session5,Ses05F_impro08,Ses05F_impro08_F008,"Okay, so where?, okay, all right, so where did you uh- locate your your bill?",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F009,In the mail?,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F010,"So is it, is- is it at all possible that maybe this statement is just old and that the transaction hadn't been processed yet?",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F011,Okay.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F012,Okay.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F014,"Okay so, I'll just look it up and you know see what's going on, maybe we can...",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F015,if I call it up on the screen.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M013,"Okay, great, go ahead.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F016,"So in the database, it looks as though um, there is a there is like a glitch in the transaction where it hadn't gone through before, but I do see that you paid the, what can you tell me the amount, what was the amount?",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F017,"Okay, I do see that on here, and it says that um, it had some trouble clearing for some reason. And I think that was the problem on our end. So um-",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F018,"Well you know sometimes-- just with online transactions, things happens. so um-",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M016,"No, No, No, I am grateful.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F019,"Yeah, we- Somebody went in and- and cleared the problem and it looks like you're all paid.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M018,Did they take-,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F020,"You do the direct the direct it um- it's taking right out of your bank account, correct?",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M019,"Yes, yes, exactly.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F021,Yeah so- That --that did go through.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M020,Are you taking the late fee off of my account then?,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F022,"Um- I can try to do that for you, certainly.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F023,"Right, right, and since--yeah, since it was just a computer glitch, then that's that should be cleared up as well. So I'm going to go ahead and try and put that into the computer. And if for some reason you notice on your statement in a few days that you've been charged and an overdue fee, then you should just call back and we'll have that.",3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M022,Right.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F024,Well I'll give you my direct line and my number so you can- you can get directly to me.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F025,yeah.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M025,"That would be wonderful, that would be great seriously.",2,hap
+Session5,Ses05F_impro08,Ses05F_impro08_F026,No problem.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M026,"thank you, what's the number?",2,hap
+Session5,Ses05F_impro08,Ses05F_impro08_F027,ahh one eight hundred three two three,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M027,three two three,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F028,six four nine four,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M028,"six four nine four. That would be so great, thank you so much.",2,hap
+Session5,Ses05F_impro08,Ses05F_impro08_F029,You're welcome,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_F030,I'm sorry that it was an inconvenience.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M030,"It was horrible, but you've made it much better, thank you very much. Absolutely",2,hap
+Session5,Ses05F_impro08,Ses05F_impro08_F032,Have a good day.,3,neu
+Session5,Ses05F_impro08,Ses05F_impro08_M031,"You too, thank you so much, have a wonderful day.",2,hap
+Session5,Ses05F_impro08,Ses05F_impro08_F033,bye bye,3,neu
+Session5,Ses05F_script01_1,Ses05F_script01_1_F000,What's he going to say? Maybe we should tell him before he sees it.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M000,He saw it.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M001,He was out here when it broke.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M002,"Around Four this morning, and there was a crack and I looked out. We're standing right there when I cracked.",1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M003,I don't know. but When it cracked he ran back into the house and start to cry in the kitchen.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_F004,Did you talk to him?,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M004,No. I figured it was best to leave him alone.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_F005,He cried hard.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M005,I could hear him right through the floor of my room.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_F006,He is thinking about him again.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_F007,"It's getting just like after Larry died, he's having dreams, he's walking around at night.",1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M006,"I guess, he is.",1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_F008,What's the meaning of that?,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M007,I don't know the meaning of it. But I know one thing mom did. We made a terrible mistake with dad.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M008,Being dishonest with him. It's the kind of thing that pays off and now it's paying off.,1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M009,"You know that Larry's not coming back, and I know it. So why do we go on letting him think that we believe with him?",1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_M013,"For God's sake, mom, three years. Nobody comes back after three years! It's insane!",0,ang
+Session5,Ses05F_script01_1,Ses05F_script01_1_M016,"You know why I asked Annie here, don't you?",1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_F017,Well I got an idea. But what's the story?,3,neu
+Session5,Ses05F_script01_1,Ses05F_script01_1_M018,I'm going to ask her to marry me.,3,neu
+Session5,Ses05F_script01_1,Ses05F_script01_1_F024,"Well you're a considerate fellow, there's nothing wrong with that.",3,neu
+Session5,Ses05F_script01_1,Ses05F_script01_1_M025,To hell with that!,0,ang
+Session5,Ses05F_script01_1,Ses05F_script01_1_F025,Have you asked Annie yet to marry you?,3,neu
+Session5,Ses05F_script01_1,Ses05F_script01_1_F026,"Well how did you know that she will go along with it, I mean maybe she feels the same way as your father?",3,neu
+Session5,Ses05F_script01_1,Ses05F_script01_1_F027,"The trouble is you don't see enough women, you never have",3,neu
+Session5,Ses05F_script01_1,Ses05F_script01_1_F028,Well I just don't see why it has to be Annie.,3,neu
+Session5,Ses05F_script01_1,Ses05F_script01_1_F031,"You marry his girl, and you're pronouncing him dead. Now what's going to happen to your father, do you know? I don't.",1,sad
+Session5,Ses05F_script01_1,Ses05F_script01_1_F033,What the hell is this?,0,ang
+Session5,Ses05F_script01_1,Ses05F_script01_1_F034,Are you crazy?,0,ang
+Session5,Ses05F_script01_1,Ses05F_script01_1_M035,The business? The business? It doesn't inspire me?,0,ang
+Session5,Ses05F_script01_1,Ses05F_script01_1_F038,"All right! But don't think like that, because I mean, what the hell did we do all this for, Chris? The whole business it's all for you! The whole shooting match is for you!",0,ang
+Session5,Ses05F_script01_2,Ses05F_script01_2_M000,Why does that bother you?,3,neu
+Session5,Ses05F_script01_2,Ses05F_script01_2_F001,She's been in New York three and a half years. Why all of the sudden?,3,neu
+Session5,Ses05F_script01_2,Ses05F_script01_2_M001,Well maybe. Maybe she just wanted to see her again.,3,neu
+Session5,Ses05F_script01_2,Ses05F_script01_2_M002,"What did you mean? He lived next door to the girl all of his life, why wouldn't he want to see her again? Don't look at me like that, he didn't tell me any more than he told you.",3,neu
+Session5,Ses05F_script01_2,Ses05F_script01_2_F006,She's not his girl. She knows she's not.,0,ang
+Session5,Ses05F_script01_2,Ses05F_script01_2_F010,I want you to pretend like he's coming back!,0,ang
+Session5,Ses05F_script01_2,Ses05F_script01_2_F011,"Because if he's not coming back, then I'll kill myself.",0,ang
+Session5,Ses05F_script01_2,Ses05F_script01_2_F012,"Laugh. Laugh at me, but what happens the night that she goes to sleep in his bed, and his memorial breaks in pieces?",0,ang
+Session5,Ses05F_script01_2,Ses05F_script01_2_F014,"Only last week, another boy turned up in Detroit, been missing longer than Larry, you read it yourself.",0,ang
+Session5,Ses05F_script01_2,Ses05F_script01_2_F016,You've got to believe. You've got to--,1,sad
+Session5,Ses05F_script01_2,Ses05F_script01_2_M016,What do you mean me above all? Look at you. You're shaking!,0,ang
+Session5,Ses05F_script01_2,Ses05F_script01_2_F017,I can't help it!,0,ang
+Session5,Ses05F_script01_2,Ses05F_script01_2_M017,"What have I got to hide? What the hell is the matter with you, Kate?",0,ang
+Session5,Ses05F_script01_3,Ses05F_script01_3_F000,You're the only one I know who loves his parents.,2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_M000,I know. It's going out of style isn't it?,2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_F001,"No, it's good.",2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_F002,It's so lovely here. The air is sweet.,2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_F003,No. But I'm not going to stay.,2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_M004,What?,3,neu
+Session5,Ses05F_script01_3,Ses05F_script01_3_F006,Well sort of embarrassed soon as I came.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M005,Well the plan was to kind of sneak up on you over a period of a week or so. But uh- they take it for granted that we're all set.,2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_M006,How did you know?,3,neu
+Session5,Ses05F_script01_3,Ses05F_script01_3_F008,"Well, from her point of view why else would I come?",3,neu
+Session5,Ses05F_script01_3,Ses05F_script01_3_F009,I guess this is why I came.,2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_M008,"Anne, I love you. I love you a great deal. I love you!",2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_M009,"I- I -I have no imagination, that's all I know what to say, I-I'm embarrassing you. I I didn't want to tell you here. I wanted it to be some place different, some place where we could be new to each other you know.",2,exc
+Session5,Ses05F_script01_3,Ses05F_script01_3_M010,"You feel it's wrong here, don't you- this yard, this chair? I want you to be ready for me Annie. I don't want to win you away from anything.",2,exc
+Session5,Ses05F_script01_3,Ses05F_script01_3_M016,Oh God- I kissed Annie! I can't believe I kissed Annie! How long I've wanted to do this.,2,exc
+Session5,Ses05F_script01_3,Ses05F_script01_3_F015,I'll never forgive you. Why did you wait so long? All this time I've been wondering if I was a fool for thinking of you!,2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_M017,"Oh Annie, we're going to live now. I'm going to make you so happy.",2,exc
+Session5,Ses05F_script01_3,Ses05F_script01_3_F016,"Not like that, you're not.",2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_F017,"Like Larry's brother. Do it like you, Chris. Chris, what's the matter?",2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_M021,"Yeah, I suppose I have been. But it's going from me.",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_F020,It wouldn't work like this.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M023,"It's- It's mixed up with so many other things, I-",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M024,Remember when I was overseas? I was in command of the company.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_F021,yeah sure.,3,neu
+Session5,Ses05F_script01_3,Ses05F_script01_3_M025,Yeah. I lost them.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_F022,how many?,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M026,just about all.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_F023,Oh gee.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M027,Takes a little time to toss something like that off you know because they weren't just men-,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M028,"for instance, there's this one time. It had been raining for several days. And this kid came up to me and gave me his last pair of dry socks. you know, He just put them in my pocket.",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M029,"I know that- that's not a big thing, but it's just the kind of guys I had. They didn't die. They- They killed themselves for each other.",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M030,I mean that exactly that-a little more selfish and they would have still been here today.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M031,"And I got an ideal, watching them all go down. Everything was being destroyed see and-",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M032,"but it seemed to me that something new was being created at the same time, a kind of responsibility, man for man. Do you understand me?",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M033,And to show that-to-to bring that back onto the earth again like a- like a monument. And everyone would have it standing behind them and- and it would make a difference for them.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M034,And then I went home and it was incredible. It had no meaning here.,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M035,"It was all like some kind of bus accident to them. I went back to work with my dad, in that whole rat race again.",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M036,And I felt what you said- ashamed somehow-because nobody had changed at all. It seemed to make suckers out of a whole lot of guys. and,1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M037,"It felt wrong to be alive-to open that bank-book; to buy that new car; to look at that new refrigerator. I mean, you can take those things out of the war, but if you drive that car, you have to know that that comes from the love that a man has for a man. And you've got to be a little bit better than that!",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_F024,Do you still feel like that?,3,neu
+Session5,Ses05F_script01_3,Ses05F_script01_3_M039,"I I want you now, Annie.",2,exc
+Session5,Ses05F_script01_3,Ses05F_script01_3_F025,"Because you can't feel like that anymore Chris, you hear me? I mean everything that you have, you deserve. And that includes me. And your father? Your father put hundreds of planes in the air, you should be proud. A man should be paid for that.",1,sad
+Session5,Ses05F_script01_3,Ses05F_script01_3_M040,"Oh Annie. Annie, I am going to make you a fortune!",2,hap
+Session5,Ses05F_script01_3,Ses05F_script01_3_F026,What would I do with a fortune?,2,hap
+Session5,Ses05F_script02_1,Ses05F_script02_1_M000,"What time is it? Isn't it supposed to start running around midnight? This is great, isn't it? Look at this great night we got here. Couldn't be better--",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M001,actually I was hoping to go a little bit further up the coast to get away from the lights and the people but I was afraid I will miss it. How are you doing?,2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_F000,Fine.,3,neu
+Session5,Ses05F_script02_1,Ses05F_script02_1_M002,"Is that--no, no no is that foam? I can't even tell, although if I- if I can't tell, it probably isn't it? Right It'll probably be unmistakable, but don't you think? How you doing?",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M003,"Oh no, you know what I did. I forgot my flashlight. How could I be so stupid? I can't believe I forgot my flashlight.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_F001,What flashlight?,3,neu
+Session5,Ses05F_script02_1,Ses05F_script02_1_F005,yes.,3,neu
+Session5,Ses05F_script02_1,Ses05F_script02_1_M009,"Are you cold? You want my jacket? We should have bought a blanket. Our blanket-. This is great, isn't it?",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M010,"I didn't even think to bring a six-pack. A six-pack would be just the thing right about now. I can't believe I forgot. And look at kid, I am surprise I make it out of the house about flies it.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M011,[LAUGHTER] I wonder if they can hear me talk or if they can feel the vibration in the sand when we are moving around,2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M012,you want my jacket?,2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_F007,"It's after eleven, let's go home.",3,neu
+Session5,Ses05F_script02_1,Ses05F_script02_1_M014,Right.,2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_F011,Not particularly.,3,neu
+Session5,Ses05F_script02_1,Ses05F_script02_1_F012,I just don't.,3,neu
+Session5,Ses05F_script02_1,Ses05F_script02_1_M018,"Honey, this is a natural phenomenon. I mean, It happens like once a year. It's a great opportunity.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M019,"Think about people in Kansas, they have to get a- a plane reservation and a hotel reservation just to see this uh- but we are just forty minutes away. Too good to pass up.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M020,"Yeah but that moment on the beach is the highlight of their little lives, all that flopping around is laying eggs or what you- mating or spawning or something like that.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M021,This is a big night for these guys. Life's last orgy. Yeah,2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M023,"Okay, but they are fish that do something that no other fish do. Like the swallows returning to Capistrano, or the lemmings jumping off a cliff you know like that.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M024,There's There's mystery here and magic. A little bit of the unexplainable. I can't understand how you could not be interested.,2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_F015,I am just not.,3,neu
+Session5,Ses05F_script02_1,Ses05F_script02_1_F016,Yes.,3,neu
+Session5,Ses05F_script02_1,Ses05F_script02_1_M029,"Look there, what's that? Is it? Is that a--Ah, it's a seaweed isn't it?",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M030,"Oh, this is great. I wouldn't miss this for the world. I mean think about this. I know you are not interested but think about this for a second.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M031,"Somewhere out there, is a giant mass of silver fish all swimming in this direction. They don't know why and we don't know why. They didn't get an invitation. And it wasn't a vote- it wasn't a decision. And nobody sent them a map or anything like that.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M032,It's just some little instinctual time-release firecracker that went off inside them and all this one they turn around and form a line as long as the California coast and just started swimming.,2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M033,"They are swimming right now as if it's the only thing that matters. It's- It's single mindedness with no mind, urgency that's pure urge. It's- They don't know what drives them. They- They don't give any name or ask any question. They just turn as one and started to swim to the very point we are standing right now for a massive celebration of sex and death. God, it's giving me goose bumps all over my hairs on my arm. popping up.",2,exc
+Session5,Ses05F_script02_1,Ses05F_script02_1_M034,"Well, So what do you think?",2,exc
+Session5,Ses05F_script02_2,Ses05F_script02_2_M000,"Well, so? What do you think?",2,exc
+Session5,Ses05F_script02_2,Ses05F_script02_2_M002,It certainly is not. It's slightly exaggerated scientific fact.,3,neu
+Session5,Ses05F_script02_2,Ses05F_script02_2_M003,"I am not the only one, look at all these people.",3,neu
+Session5,Ses05F_script02_2,Ses05F_script02_2_M005,"Carla, can I ask you a question? Now don't be upset, are you having a period?",3,neu
+Session5,Ses05F_script02_2,Ses05F_script02_2_F005,"God damn it, Augie. Why do you always ask things like that? It's so insulting.",0,ang
+Session5,Ses05F_script02_2,Ses05F_script02_2_M010,Well We will see them this year.,3,neu
+Session5,Ses05F_script02_2,Ses05F_script02_2_F013,"Augie, do you remember the first time we came to see it? It was about four years ago right after we got married and we thought I was pregnant.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F014,"We had a bottle of champagne but no glasses and you ask me to dance so we took off our shoes and while we were dancing, you said the most intimate things right in my ears so I could feel them as much as hear them.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F015,"And I remember thinking, Finally, finally. I am as happy as I am supposed to be.",2,hap
+Session5,Ses05F_script02_2,Ses05F_script02_2_M016,"Wait a minute, I got it.",3,neu
+Session5,Ses05F_script02_2,Ses05F_script02_2_F016,"Dancing barefoot in the sand, drinking champagne from the bottle.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F017,I rather not remember some things. I rather not hope for some things.,1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_M018,"Okay, all right I got it. You wanted it to be like the other time, okay no problem. Listen, You want to dance?",2,exc
+Session5,Ses05F_script02_2,Ses05F_script02_2_F018,No.,1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_M019,You want me to go get some champagne?,2,exc
+Session5,Ses05F_script02_2,Ses05F_script02_2_F019,No.,1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_M020,Take off our shoes?,2,exc
+Session5,Ses05F_script02_2,Ses05F_script02_2_M025,What. Welcome to the human race.,0,ang
+Session5,Ses05F_script02_2,Ses05F_script02_2_F025,This what? What is this? This isn't even anything.,1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F026,"Sure, this is standing. This is waiting. This is fighting.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F027,But this isn't anything like I thought it would be.,1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_M031,"No, I know me either.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F028,"I mean it is just this , I mean it includes a lot and everything and you know it's the sand and it's the full moon and I just-I am sorry but I couldn't help wishing I was somewhere else.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_M032,Maybe if you are with somebody else too?,1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F029,I didn't say that.,1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_M033,"No, I know, but. I know I don't make you happy.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F030,"For heaven's sake Augie, wherever I am I always wanted to be with you.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_F032,"Whatever I am doing, I wanted to be with you. I mean you are probably the one who wishes you were with somebody else, somebody who didn't take everything so hard and who knows how to enjoy herself.",1,sad
+Session5,Ses05F_script02_2,Ses05F_script02_2_M035,"Actually, now that you mention it. No, I don't.",2,hap
+Session5,Ses05F_script02_2,Ses05F_script02_2_F033,Good. So maybe we are on the wrong spot but we are with the right person.,2,hap
+Session5,Ses05F_script02_2,Ses05F_script02_2_M036,I don't know. Seems like a pretty good spot to me I mean look at the view of the moon you got from here.,2,hap
+Session5,Ses05F_script02_2,Ses05F_script02_2_F034,"Yes, I did notice that. It does look really beautiful on the water. The gold white moon.",2,hap
+Session5,Ses05F_script02_2,Ses05F_script02_2_M037,"Well, look what we have got here.",2,hap
+Session5,Ses05F_script02_2,Ses05F_script02_2_F037,"No, I am beginning to think that maybe this is the spot after all.",2,hap
+Session5,Ses05F_script02_2,Ses05F_script02_2_M040,"Shh, If we're very quiet, the fish might come.",2,hap
+Session5,Ses05F_script02_2,Ses05F_script02_2_M041,Or not.,2,hap
+Session5,Ses05F_script03_1,Ses05F_script03_1_M000,Good God.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M001,I wonder.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M005,Hello? Hello? What? Wrong number.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F005,"Oh, it sent shivers up my spine.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F006,Behave exquisitely.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M007,With the most perfect poise.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F007,"Yes, I shall probably do a Court Curtsey.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F010,The whole business is really rather ridiculous.,3,neu
+Session5,Ses05F_script03_1,Ses05F_script03_1_F011,Meaning exactly that.,3,neu
+Session5,Ses05F_script03_1,Ses05F_script03_1_M011,"What does it all mean? That's what I asked myself in my ceaseless quest for ultimate truth. Dear God, what does it all mean?",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F013,Who's they?,3,neu
+Session5,Ses05F_script03_1,Ses05F_script03_1_M013,"All the futile mortals who try to make life unbearable. Laugh at them. Be flippant. Laugh at everything, all their sacred shibboleths. Flippancy brings out the acid in their damned sweetness and light.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M014,Certainly you must. We're figures of fun alright [LAUGHTER].,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F015,"Well, what if-what happens when our love-",3,neu
+Session5,Ses05F_script03_1,Ses05F_script03_1_M015,Who knows?,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M016,"No, that fire will fade along with our passion.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M017,It all depends on how well we played.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F019,"Well, what if one of us dies, does the other laugh then?",3,neu
+Session5,Ses05F_script03_1,Ses05F_script03_1_M018,"Yes, yes, with all his might.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M019,"No, no it isn't. Death is very laughable. Come such a cunning little mystery all done with mirrors.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M020,"no, So is everyone else in the long run. Let's be superficial and pity the poor philosophers. Let's blow trumpets and squeakers and --",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M021,enjoy the party as long as we can like very little quite idiotic schoolchildren. [garbage] Let's savor the delight of the moment.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M022,"Darling, come here and kiss me before your body rots and worms pop in and out of your eye sockets.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M024,Do you remember that awful scene we had in Venice?,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M025,The one where you bought that little painted wooden snake and put it on my bed.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F025,Charles. That was his name. He did wriggle so beautifully.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M026,"Horrible thing, I hate it.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M027,How long did that row last?,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M028,The worst one was in Cannes when your curling irons burnt a hole in my new dressing gown.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M029,"Oh, that was quite a rouser, wasn't it?",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M030,"Oh, I didn't hit you very hard.",3,neu
+Session5,Ses05F_script03_1,Ses05F_script03_1_F030,And then the manager came in and found us rolling around on the floor biting and scratching like panthers.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M031,[LAUGHTER] I shall never forget his face.,2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F031,"Oh, ridiculous. utterly ridiculous",2,hap
+Session5,Ses05F_script03_1,Ses05F_script03_1_M032,"Oh, we were very much younger then.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_M033,"Oh, As a matter of fact, the real cause of that row was Peter Burden.",2,exc
+Session5,Ses05F_script03_1,Ses05F_script03_1_F033,You knew there was nothing.,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_F000,You knew there was nothing in that.,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_F001,Only a trivial little broach.,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_F003,You worked the whole thing up in your jealous imagination.,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_M004,"You must admit that he was in love with you, wasn't he?",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F004,"maybe just a little, but--",3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_M005,You let him kiss you. You said you did.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F005,And what of it?,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_F006,"Well, I- he got a lot of pleasure out of it and it didn't hurt me.",3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_M008,"Well, that's a nice point of view I must say.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M009,"So am I, bored stiff. Would you like some brandy?",3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_M010,I'll have a little I think.,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_F010,I don't see why you want any. You've already had three glasses.,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_F011,"Well, it seems silly to go on and on in such a thing.",3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_F012,It's becoming a habit with you.,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_M013,You needn't be so grand simply because you don't happen to want any at the moment.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M014,"Really, Amanda.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F014,Just making myself fascinating for you.,3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_M016,"Oh, that reply has broken my heart.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M019,It's a pity you didn't take a little more brandy. It might have made you a little less disagreeable.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F018,"Um, It doesn't seem to have worked such wonders with you.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F019,"adder don't snap, they sting.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F020,They sting.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M022,They snap.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F021,"I don't care if they bark and roll around like hoops, okay.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M024,Did you see much of Peter Burden after the divorce?,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F022,"Yes, I did quite a bit.",3,neu
+Session5,Ses05F_script03_2,Ses05F_script03_2_M025,I suppose you let him kiss you a good deal more then.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F023,Mind your own business.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M026,"You must have a riotous time, no restraint at all, very enjoyable. I mean, you never had much anyway.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F024,"Oh dear, you really are becoming quite insufferable. I would imagine it's because you're drunk.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F027,"Not very funny, dear, you better have some more brandy.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F029,Why?,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F030,There aren't any people upstairs; it's a photographer's studio.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F031,They're away in Tunis.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F032,Turn it on again.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F033,"Fine, if you insist on being completely insolent.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M037,Turn it off. It is driving me mad.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F034,"Well, do try to control yourself darling.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M038,Turn it off.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F035,You really do need to develop uh a clearer head.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M039,Turn it off.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F036,I- I hate you.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M040,Amanda-- Listen- Listen-,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F037,I hate you.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F038,"No, no. I'm tired of listening to you. You're boorish and idiotic and completely overbearing.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M041,Very music- amusing indeed.,0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F039,"Yeah, very amusing. Let me go. I'm getting out of here. I can't believe I intended to marry you.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M042,"You are a vile tempered, loose living, wicked little beast, and I never want to set eyes on you again.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F040,"Oh, marry you again? I must have been insane. What was I thinking? I mean, you're completely outrageous.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_M043,"Shut up, shut up. I wouldn't marry you again if you came crawling to me on bended knee. You're a mean, evil-minded little vampire and I hope to God I never set eyes on you again.",0,ang
+Session5,Ses05F_script03_2,Ses05F_script03_2_F041,Beast; brute; cad; whore,0,ang
+Session5,Ses05M_impro01,Ses05M_impro01_F000,Can I help you?,3,neu
+Session5,Ses05M_impro01,Ses05M_impro01_F001,"Oh, this- this form that you have is the wrong form. You need to go over to the other line on the other side of the D.M.V..",3,neu
+Session5,Ses05M_impro01,Ses05M_impro01_F002,"Right, but this is the wrong form. Somebody gave you the wrong form.",3,neu
+Session5,Ses05M_impro01,Ses05M_impro01_F003,"Yeah. So, I can't -- I can't do anything-",3,neu
+Session5,Ses05M_impro01,Ses05M_impro01_F004,"No, but this is for um- replacements and you need a new -- whole new license as a California --",3,neu
+Session5,Ses05M_impro01,Ses05M_impro01_M005,"I'm not getting a -- well, you wait in this line and not get an attitude.",0,ang
+Session5,Ses05M_impro01,Ses05M_impro01_F006,"No, I understand and there are a lot of people here. But what I'm telling you is that it's different for different states and since your getting a new license in the state of California -- You have to fill out a different form than you did.",3,neu
+Session5,Ses05M_impro01,Ses05M_impro01_F009,I know.,3,neu
+Session5,Ses05M_impro01,Ses05M_impro01_F012,Yeah. I know it's gonna take a minute. But you-- so you might as well get started now.,3,neu
+Session5,Ses05M_impro01,Ses05M_impro01_M015,"Wouldn't you? Oh, come on. you just tell me. You would make an exception for me.",0,ang
+Session5,Ses05M_impro01,Ses05M_impro01_F021,I'm gonna- I'm gonna bring security over and have them escort you out.,0,ang
+Session5,Ses05M_impro01,Ses05M_impro01_F023,"Well, that's unfortunate, sir. You're gonna have to go stand in the other line now.",0,ang
+Session5,Ses05M_impro02,Ses05M_impro02_M000,"Sweetheart, I've got to tell you something. I just got a call. I'm going to Iraq.",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M001,"I know it's really crappy timing, but I don't have a choice.",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M007,"I don't have a choice. I have to go. If I don't go, they'll come and take me.",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M010,I know.,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M011,I don't want to -- the kids. You've got to take care of them. You've got- you've got to-,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M012,"tell them about me and show them pictures of me and everything like that, because they are not going to see me for such a long time. And it's such an important time and I just don't want to miss it.",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M013,I don't have -- I know. What are we gonna- What are we- just run away? What can I do? Where can we go?,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_F012,What would be the worst that would happen if they found you somewhere else?,3,neu
+Session5,Ses05M_impro02,Ses05M_impro02_F013,"Well, they're so young.",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M018,I know. But I'll-I'll send the pictures all the time and I'll write them emails and you can read them the emails that I send them.,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M019,"I'm gonna be in Bagdad, just doing security.",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M021,I just want to be honest with you. I don't want you to .,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M022,"but, it's gonna be fine. I'm gonna be fine. You know I'm good at this. I can do this. That's why I trained all this time. I'm good at this. Okay?",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M023,"I know. I know. I know. But, you know what? That doesn't mean it's gonna be me; does it?",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M024,No. It doesn't. And you can't think like that.,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M025,I don't want you to -- I know. I know. You can't worry about me. You've got to worry about the kids. And you've got to take care of the kids for me. Okay? Take care of the kids for me; all right?,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_F020,It's just so much.,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M027,"I'll miss you, baby.",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_F021,[GARBAGE] You have to write me everyday.,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M028,"All- I'll write you everyday, all the time. And I'll send you pictures and you send me pictures. I know We've got email out there. We've got email and I can see stuff and you can send me stuff all the time. Okay?",1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M029,yeah yeah yeah.,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_M030,You you record every second. You record every second because I want to see it all. Okay?,2,exc
+Session5,Ses05M_impro02,Ses05M_impro02_F023,okay.,1,sad
+Session5,Ses05M_impro02,Ses05M_impro02_F024,[GARBAGE],1,sad
+Session5,Ses05M_impro03,Ses05M_impro03_M000,Guess what?,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F000,what?,3,neu
+Session5,Ses05M_impro03,Ses05M_impro03_M001,"I did it, I asked her to marry me.",2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_M002,"Yes, I did it.",2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F002,When?,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_M003,"Oh my god, it was just last weekend.",2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F003,"Oh, what, how- where how did you do it?",2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_M004,"She--,well, she said yes, first of all, let me say that right off the bat. Well, I would like to assume, too. But you never know these things, right?",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F004,Okay good. I I assumed.,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F005,oh-,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M006,"I did it up at Yosemite. We went camping right like we usually do. You know we go camping up there all the time. But, um- the waterfalls had died down a little bit, you know. And so uh- we-I had her climb up.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M007,"You know- we did some- you know some rock climbing up the waterfalls and went up to this little pool that was up there. And then, I- it's great. Um- You have to climb this little rock-",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F006,uh-huh,3,neu
+Session5,Ses05M_impro03,Ses05M_impro03_M008,"and you can climb it and it's covered in algae you know. So, I wanted her to climb it to go take a picture, like, back in this little waterfall area, and she got back there and she took her picture. And then, I had her come back. And I was going to do the same thing.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M009,"Well, instead I climb up on the rock and like I- I didn't do it -- well, I did it on purpose. I made it look like I accidentally did it. I slipped down into this pool of water, right? And she freaks out because I slide all the way down this rock. And um-",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M010,"And I pop up out of the water -- and I had planned it already, you know? I pop up out of the water and I [BREATHING] and I like, grab her hand, you know. and that In my hand, I've got the ring.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M011,"And she's like- she feels it you know and she doesn't know what it is. And she you know helps me get out and I won't let go of her hand. And she's like, what are you doing? I and said, You saved my life, now will you marry me?",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F007,"Oh, my God. That's so dramatic.",2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_M012,Wasn't that great? I didn't want it to be too hokey.but- but- She liked it.She liked it.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F008,so cute.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F009,"No, it's totally original, though.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F010,oh.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M013,"Yeah. And she said yes. And she cried, of course.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F011,"Oh, Then you had a whole weekend of camping?",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M014,"Yes. We did that in the beginning, exactly. So we had, so we just had, you know, good times the rest of the weekend, yeah.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F012,"Oh, right. sure [LAUGHTER]",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M015,It was a lot of fun- It was a lot of fun. She's great. And I'm so happy.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F013,So where are you going to have your wedding?,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M016,"We're going to do it back in the Midwest where her family all is. They're all out there. you know so, Um And so, just gonna have a small, small wedding. But, um- you know, of course, you're going to come, right?",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F014,Yeah. of course.,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F015,Okay Okay.,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_M018,"Um- And she wants you to be in it, too. She loves you so much. She thinks you're the sweetest. Of course, you are. You're You're my best friend so-",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F016,Where is she right now?,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M019,"oh, She's back at work. yeah.",3,neu
+Session5,Ses05M_impro03,Ses05M_impro03_F017,"Yeah,I'll hang out with the both of you.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M020,Of course. We'll go out to dinner later this week.,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F018,yes.,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_M021,It will be perfect.,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F019,Oh I'm so excited for you.,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F020,oh.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M023,She's the one.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F021,"Oh, my gosh. You told your parents already? and everything",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M024,Of course. I told them right away. We called them all right them.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F022,Are they so excited?,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M025,"Oh, yeah. My mom's freaking out. Oh yeah, She's so happy. this is you know It's her dream come true. She always wanted her little boy -- she wants kids, you know.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M026,She wants grandkids. So we'll be working on that right away.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F023,Are you guys gonna have kids?,2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_M027,"Of course, we're gonna have kids, like three at least.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M028,"She wants like eight- She wants like eight kids and I'm like, no, no, no, no, no. I am like what Let's do maybe three and we'll go with that.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F026,Are you going to start right away?,3,neu
+Session5,Ses05M_impro03,Ses05M_impro03_M029,"Well, we're going to take a little bit of time, you know, we need to get acclimated and you know start our lives, make money, you know be comfortable.",2,exc
+Session5,Ses05M_impro03,Ses05M_impro03_F027,"Yeah, have you ever like lived with someone else before?",3,neu
+Session5,Ses05M_impro03,Ses05M_impro03_M030,"Oh, yeah, yeah, yeah, yeah I mean, actually we lived together awhile back when we -- Yeah, back in college for a little while. yeah.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M031,But that- so we are really used to each other. We took the time apart and now we're going to get back together. We're going to move in soon.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F030,Oooh,3,neu
+Session5,Ses05M_impro03,Ses05M_impro03_M032,it's great. I'm a lucky man.,2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_F031,"That's incredible yeah ,Congratulations.",2,hap
+Session5,Ses05M_impro03,Ses05M_impro03_M033,Thank you.,2,hap
+Session5,Ses05M_impro04,Ses05M_impro04_F001,Really? It's been that long?,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F002,Wow.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F003,What have you been trying?,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F004,Right.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F005,"Well, I mean, right now I'm just doing a little bit of everything. And I don't- I don't think that I'm in like a profession, like career oriented place.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_M008,"You plan on being there forever? I mean, Like, what do you --",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F006,"No. I'm just working in restaurants and stuff. But, I'm also trying to audition and what not. So, it's --",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_M009,yeah.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_M010,right.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F007,Really?,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F008,"L.A. is really hard. I mean, have you tried like just going into a bar a couple of times to make friends with people who work there? and",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F009,"I was just going to say that's your issue. Maybe you are going in too much. No, I mean, just",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F010,are you going into the bars every night?,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F011,"Well, I don't really know. I don't I don't know you in like a job situation, so.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F012,"Wow. I don't -- I mean, do you- do you have an attitude problem when you're on the job?",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F013,Maybe [garbage].,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F014,"Right. Maybe you have, like, you know a little bit of an abrasive vibe or something.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_M019,An abrasive vibe?,0,ang
+Session5,Ses05M_impro04,Ses05M_impro04_F015,I don't know. I'm I'm just trying --,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_M020,"Let me know that's -- that's fine. You think I have an abrasive vibe, whatever. You're entitled to your opinion, of course. Maybe that's why I don't have a job.",0,ang
+Session5,Ses05M_impro04,Ses05M_impro04_F016,Are you getting defensive?,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F017,Yeah. That might be something you want to look at. I mean --,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F018,Okay.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F019,I understand.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F020,"Yeah, it's stressful. I recognize that.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F021,ah.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F022,"Not- Not selling pot, right?",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F023,Okay so.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F024,Fair enough.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F026,"Sorry. So, let's see. What else? What's available? What? Um. Hmm.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F027,"Well, not off the top of head. It will just take you know take a minute. But do you have any, like, special skills?",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F028,"Well, maybe we can find you something with juggling.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F029,Have you checked out Craig's List and stuff?,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F030,"What if you do kids parties? oh, come on.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F031,Okay. All right.,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F032,"Okay. Well, fine. we won't- I won't argue with you about that.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F034,"That's rough. I'm really sorry, Ryan.",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F035,"Well, um, is that kinda like the side of you that you let people see when you go into these job interviews?",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F036,"Okay. Well, that's good. Yeah, I mean, you're you're- when you're happy you're a pretty personable guy. And I don't --I don't",3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_F037,I can't see where the issue would be. so,3,neu
+Session5,Ses05M_impro04,Ses05M_impro04_M040,"Yeah, well thanks for your help.",0,ang
+Session5,Ses05M_impro04,Ses05M_impro04_M041,I'll need it.,1,sad
+Session5,Ses05M_impro05,Ses05M_impro05_M000,Hi. Um- My luggage didn't come out of the conveyor thingy.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F000,Hmm. Hmm.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M001,"So, um, what do I do?",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F001,How long ago was that?,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M002,"Uh- Like, an hour and a half ago. I talked to somebody who was standing out there and they said wait. Sometimes like random butt- pieces come out late.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F002,Uh-Hmm.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M003,"And so I waited there, but nothing came.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F003,"Um, okay. Well, you can fly- file a claim. Where were you coming from?",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M004,"I was coming from um the Midwest, like Iowa.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F004,"So, within the country, though? umm",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M005,"Yeah, I know I was in the country. I mean, it's not that complicated.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F005,"Yeah, well the chances of it being lost forever, you know, are slight because -- -- you were in the --",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M006,"Well, I would hope so.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F006,"Well, I mean, you know that happens pretty often that sometimes baggage -- -- gets lost.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M007,People lose --,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F007,yeah.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M009,"You know, this is actually, I mean it's -- it's a really important piece of luggage.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F008,Okay.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M010,"I mean, it's not big or anything like that. I mean, it's not worth a lot of money or anything.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F009,Did you have insurance on your flight?,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F010,"No, you have to buy it now. It's like thirty dollar extra.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F011,"well, it's something that worth",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F012,"yeah, I don't know.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F013,Chances are it's probably just you know -- taking time being um- unloaded from the airplane.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F014,"Um, well, there's not much I can do. I can, you can file this report and we'll call you when it comes in.",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F015,wow.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F016,"Wow. Well, that's really important, obviously. But, um --",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F017,"Uh- Actually, I don't know that that's legal. Um- it is the issue",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F018,"Yeah I mean, Your bag might have been confiscated because it's --",3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F019,-- it's a biohazard. so- um,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F020,Yeah. Let me just call security.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_F021,[LAUGHTER] Okay. Hold on.,3,neu
+Session5,Ses05M_impro05,Ses05M_impro05_M022,Thank you,3,neu
+Session5,Ses05M_impro06,Ses05M_impro06_M000,I just got some bad news.,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M001,"My friend, Shotty, passed away.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F002,"Oh, I'm so sorry",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M002,"The end, he's been sick for awhile. He had cancer.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F003,"Oh, my gosh.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M003,"Yeah. It's just, I never thought it would actually happen, you know? I mean- He's such a fighter and he's always so positive about everything.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M004,"You know, he was gonna, and we -- all the way up to the end we were just talking about how- you know all the stuff we were gonna do and, you know. When he finally kicked this stupid cancer, you know, and we were gonna --",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M005,"he wanted to travel, you know. And he's so talented. Probably the most talented person I have ever met in my entire life.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F004,What did he do?,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M006,"He was a designer, you know. But he did everything. You know, He painted and he- and he did costume design, he did set design, he did lighting, he was --",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M007,"he just did everything. He was literally, literally the most talented guy I have ever met in my entire life.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M008,And he's gone now and I -- I just can't believe it.,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F005,Yeah. I'm so sorry.,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M009,"I mean, one second you think, you know, you're just having a conversation and then --",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M010,"you know, sometimes you think you want to make that phone call, or you think you want to tell somebody something, or something like that. Do you know what I mean? Like that's -- he was the person that I did that with. You know, like, that's the person who I needed to call to tell things to all the time.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F006,You guys have been-,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M011,"And now I don't have that person anymore, you know. And it's -- -- it's just, you.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M012,"You think that things get easier, you know, as you as you get older and you -",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M013,"and it just gets worse. It just gets worse, everything is bad all the time; people die, your friends die, family dies, your best friends die. it's-",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F007,I'm sorry. I-,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M014,"You always think, you know when you were- you know when you were a little kid and you think something is gonna happen, like, it will all be better when I am older, you know?",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F008,"Wow, Ryan I know that you are hurting right now but I don't think you always feel like that.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M017,"No, you're right. I don't. You're right.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M018,"Even, yeah -- he doesn't he would never feel that way, he would never want me to feel that way. Of course not, but that's just where I am right now and -- -- I don't know what else to do with it.",1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F009,Yeah. I understand. I think it's really healthy to grieve.,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M019,I just miss him.,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_F010,If there's anything I can do to be there for you.,1,sad
+Session5,Ses05M_impro06,Ses05M_impro06_M020,Thanks.,1,sad
+Session5,Ses05M_impro07,Ses05M_impro07_M000,Guess what?,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F000,What?,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M001,I got it. I got accepted to U.S.C..,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F001,"Oh, for real?",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M002,Yes! I just found out today. I just got the letter.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F003,"oh,I'm so glad.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M003,I know. I know. I'm so excited.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F004,What are you gonna study?,2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M004,"oh, Theater. yeah, yeah.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F005,Really? Are you doing the M.F.A. program?,2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M005,yes.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M006,oh-,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F007,I heard it's so tough to get into.,2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M007,It's exactly what I wanted.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F008,That's awesome.,2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M009,"I worked really hard, I'll say, I worked really hard. You know, I I'm not bragging or anything like that. But-",2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_F009,"Yeah, that's awesome.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F010,No.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_F011,"Uh huh. Yes, seriously, for years.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M011,"Finally. I'm so excited. We're gonna -- well, I'll be here. We're still gonna be able to see each other.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F012,I know. I know. I'm- I'm definitely -- I realize [LAUGHTER].,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M013,"What are you, wait, what are you doing?",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F013,"Um- I'm gonna be studying at U.S.C., too.",2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M014,"Perfect! Oh, my God. Are you staying, are you going to live on campus?",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F015,Yeah. Totally- Well where are you going to live?,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M016,We are gonna have a great time.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M017,"[garbage] I'm going to live on campus. I mean, well, around campus, anyway. Yeah, housing around campus.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F016,Oh yeah.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_F017,Good tradeoff,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M018,"I just want to be really close to things, you know. I know it's not exactly the best neighborhood in the entire world. But uh-",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F018,I don't- I don't think it's that bad.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M019,"I don't- you know ,I feel the same way, you know what I mean. And everybody says a lot of other crap you know, they don't know what they are talking about anyway.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F019,yeah.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M020,"They don't live here. They don't know, right?",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F020,"Yeah. I think it's really also if you- if you consider yourself like, us and them, kind of thing- If you think you're part of your community then --you going to like it more",3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M021,yeah.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M022,Exactly. You make it what you make it. You know? Right? And I'm gonna make it so freaking awesome.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F021,"Right, Exactly.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F022,Oh I'm so glad.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M023,yeah.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F023,"So when do you know, like, where you're gonna live? and-",2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M024,"Well, I don't know. I've got to go look for a place.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F024,"Oh, wow.",3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M025,"Yeah, yeah. I- I don't- I don't know. Do you have any suggestions?",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F025,Um-,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M026,You know the area better than I do.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F026,"Yeah. I mean, I know, I know, like the- the housing surrounding the campus pretty well.",3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_F027,Um- How many people do you want to live with?,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M028,"Not a lot. I mean, I wouldn't want to live with more than three other people. So, like four of us total, right?",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F028,All dudes?,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M029,I don't care. I don't care.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F029,Um- I think I have some friends.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M030,yeah?,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F030,yeah.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M031,That would be perfect.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F031,"There's actually, a friend of mine is um- moving out of her place and her place is amazing-- And it's really cheap.",2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M032,Really?,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M033,Really?,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F032,yeah.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M034,Cheap is exactly what I need- Because I have no money at all.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F033,Okay.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M035,"But, uh--",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M036,"Loans, scholarships, I've got a lot of scholarships-- Yeah, yeah. I'm- I'm half Native American so I get all those scholarships, too. yeah.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F035,"You've got a lot- oh, awesome.",2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_F036,Oh cool.,2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M037,"So it comes Indian like. And you know I'm kind of smart, so.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F037,Yeah.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F038,totally.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_F039,good for you.,2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M039,"And yeah, well, I mean, basically I just applied for any and every possible scholarship and grant that could come by, so I can go.",2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_F040,the way to do it.,3,neu
+Session5,Ses05M_impro07,Ses05M_impro07_M040,"Yeah, yeah, yeah. And it's gonna work out. I'm gonna be able to pay for it, I'm gonna go, I mean, I'll have a little debt in the end. But I don't care.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F041,"Wow, are you so excited?",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M041,It's just you know a dream come true. How could you not be excited about a dream come true?,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F042,"You're gonna be so busy, too. You're going to have to work so hard.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M042,"Oh I know, I know.",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M043,"But I'm so looking forward to being so busy. You know what I mean? It's the kind of busy you've got to love, right?",2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M044,Because you're doing something you love. That's the kind of busy you want. I want to be able to do that for the rest of my life. Be that kind of busy.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_F044,All right. Wow. So exciting.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M045,I had to tell you right away. I knew you'd be excited.,2,exc
+Session5,Ses05M_impro07,Ses05M_impro07_M046,We'll have fun.,2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_F045,Yeah. We'll have so much fun.,2,hap
+Session5,Ses05M_impro07,Ses05M_impro07_M047,Great. Okay.,2,exc
+Session5,Ses05M_impro08,Ses05M_impro08_M000,"D.S.L. Extreme, can I help you?",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M001,This happens every two weeks?,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M002,You've lost your connection.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M003,okay.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M004,Hmm. Mmm.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M005,Has somebody tried to pin your site?,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F005,"Uh, yeah. We've pinned it a couple of times.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M006,"Okay. Um- Well, I don't know. And it consistently happens every two weeks?",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F006,"Pretty much, yeah - I don't know if it's, like, bad phone lines or something.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M007,"Well, you know what, does your D.S.L. cable -- you have D.S.L., right?",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F007,Hmm. Mmm.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M008,"Okay. Does your D.S.L. cable, you know, travel a long distance by any chance? - Does it go through any windows? I mean, is it --",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F008,yeah.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F009,"It goes- It goes, like, through doorways. But it goes a long distance.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M009,"Okay. Is it being- Is it being compressed between anything by any chance? Because sometimes your connection can be you know, disrupted by, you know, the cable being squished.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M010,"Yeah. That can be- That can create a bad connection. And it won't always be a bad connection, but it will be bad off and on.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F011,"Well, I- I can check that. Is there anything else we can do, too? Like, I'll go through and check the line throughout the house, but --",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M011,"Yeah, well, absolutely. What we can -- let's just go ahead and just do a basic diagnostic of your system first off, okay. Can you go down to your start button?",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F012,Uh huh.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M012,"Okay, And uh- go ahead and click on run.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F013,All right.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M013,Okay. We're gonna get your -- a little black box is going to come up. Do you see that?,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F014,"Yeah, I see that.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M014,"Okay Uh- You've got your C calling, go ahead and type in directory list.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F015,Okay.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M015,And hit enter.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F016,Okay.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M016,Okay? Can you tell me what that says?,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F017,"Uh, it it's like a bunch of different letter and numbers and stuff.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M017,"Okay Okay, And Um- letters and numbers and stuff. Uh- Can you - Can you just type in IP address search? And hit enter.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F018,"Uh huh, Okay.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M018,Okay? Does it list your IP address there?,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F019,"Uh, yeah looks -- no, no. It's set to zeros.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M019,"It's set to zeros. Okay, maybe that's our problem. That could very well be our problem there. Somehow you've lost your IP address. I'm not sure why that would happen every week. It could be a cycling issue, something like that. But let's go ahead and type your IP address in again.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M020,"Well, if it does happen again, let me give you my direct number and you can call me. Actually, I'll give you my cell number. Um- It's --",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M021,"Of course. we seriously- Yeah, I mean, obviously you've worked- you know -- I don't want to hassle you anymore.",3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F022,"Oh, my God. I can't even tell you how much of a relief that is. I literally call and talk to five different people. Like last week it went off and I spent an hour and a half on the phone with different people. And I've been doing that like every, every other week for months now.",2,hap
+Session5,Ses05M_impro08,Ses05M_impro08_M022,I completely understand.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M023,Absolutely. And I just don't want that to happen to you anymore.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_M024,Absolutely. It's a new service we are offering.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F025,"Yeah, accountability. It's awesome.",2,hap
+Session5,Ses05M_impro08,Ses05M_impro08_M025,Uh huh Uh huh We want you to be happy. You're our customer. You're the most important thing. Okay?,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F026,"Wow. You know I was thinking about changing internet providers, but but that- that really is enough to change my mind.",2,hap
+Session5,Ses05M_impro08,Ses05M_impro08_M026,"Great. Well, that makes me very happy. That makes us all happy here at D.S.L. Extreme. Is there anything else I can help you with?",2,hap
+Session5,Ses05M_impro08,Ses05M_impro08_F027,No. I'm just gonna go have a fantastic day now.,2,hap
+Session5,Ses05M_impro08,Ses05M_impro08_M027,All right. You have a wonderful day. Call us anytime.,3,neu
+Session5,Ses05M_impro08,Ses05M_impro08_F028,Okay. Thanks.,2,hap
+Session5,Ses05M_impro08,Ses05M_impro08_M028,"All right. Bye, bye.",2,hap
+Session5,Ses05M_script01_1,Ses05M_script01_1_F000,What's he going to say? Maybe we should tell him before he sees it.,1,sad
+Session5,Ses05M_script01_1,Ses05M_script01_1_F001,When? I was the first one up. He was still in bed. How could he have seen it?,1,sad
+Session5,Ses05M_script01_1,Ses05M_script01_1_F004,Did you talk to him?,1,sad
+Session5,Ses05M_script01_1,Ses05M_script01_1_M004,No. I figured it was best to leave him alone.,1,sad
+Session5,Ses05M_script01_1,Ses05M_script01_1_F005,He cried hard?,1,sad
+Session5,Ses05M_script01_1,Ses05M_script01_1_M011,"Why should he dream about him, walking around looking for him at night? Do we contradict him? Do we say straight out that we don't have any hope anymore, that we haven't had any hope for years now?",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M013,For Gods sake! Three years! Nobody comes back after three years. That's insane!,0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_F014,"The trouble is the God damn newspapers. I mean every every week a kid turns up, missing like longer than Larry.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M016,You know.,3,neu
+Session5,Ses05M_script01_1,Ses05M_script01_1_M017,I'm going to ask her to marry me.,3,neu
+Session5,Ses05M_script01_1,Ses05M_script01_1_F018,"Well, what do you want me to do? You're old enough to make- to know your own mind.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M020,"Oh, so it isn't just my business?",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M021,You infuriate me sometimes. Do you know that? God.,0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M022,"Isn't it your business, too, if dad -- if I tell dad and he throws a fit about it? I mean, you have such a talent for ignoring things.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_F021,"I ignore what I got to ignore. I mean, the girl is Larry's girl.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M023,She is not Larry's girl!,0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_F022,"From your father's point of view he's not dead and she's still his girl. Now, you can go on from there if you know where to go, Chris, but I don't know. So what can I do for you?",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_F023,"Well, you're a considerate fella, there's nothing wrong in that",3,neu
+Session5,Ses05M_script01_1,Ses05M_script01_1_M025,To hell with that!,0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_F024,Have you asked Annie yet?,3,neu
+Session5,Ses05M_script01_1,Ses05M_script01_1_F025,"Well, what if she feels like your father? And how do you know she will marry you?",3,neu
+Session5,Ses05M_script01_1,Ses05M_script01_1_F026,"Well, the trouble is you never saw enough women.",3,neu
+Session5,Ses05M_script01_1,Ses05M_script01_1_M028,So what? I'm not fast with women.,0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M032,"I've given it three years of thought. I hoped that if I'd waited, dad would have forgotten about it by now. And we could have like a normal wedding and everybody happy.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M033,"But if that can't happen, I'll just have to get out.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M034,"I'll get out. I'll go get married and live someplace else. I don't know, maybe New York.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_F032,Are you crazy?,0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M035,I have been a good son for too long. A good sucker. I'm through with it.,0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M036,"Yes. On this, I would.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_M037,"Well, you help me stay here.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_F035,"All right. But don't think like that. Because what the hell did we work for, Chris? I mean, this whole thing, it's all for you.",0,ang
+Session5,Ses05M_script01_1,Ses05M_script01_1_F036,Just don't think that way. Do you hear me?,0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F000,What's he going to say? Maybe we ought to tell him before he sees it.,1,sad
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M001,He was out here when it broke.,1,sad
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M002,About four this morning. I heard it crack and I looked out the window and he was standing right there when it cracked.,1,sad
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M003,"I don't know. But after he saw it, he ran back into the house and started crying in the kitchen.",1,sad
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M004,No. I figured it was best to leave him alone.,1,sad
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M005,"Yes, yes he is. I don't know the meaning in it. But I know one thing, mom, we made a terrible mistake with Dad.",1,sad
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M019,"Isn't it your business, too, if I tell dad and he throws a fit about it? You have such a talent for ignoring things.",0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M020,She's not Larry's girl.,0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M022,what to hell with that!,0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F022,Have you asked Annie yet?,3,neu
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F023,"Well, how do you know she'll marry you? Maybe she feels like your father does.",3,neu
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F024,The trouble is you don't see enough women. You never did.,3,neu
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F026,"Well, that's a good reason. But it don't mean a thing. I mean, You haven't seen her since you went to war. It's been five years.",3,neu
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F028,"Now, what's going to happen to your father, do you know? I don't.",1,sad
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M031,"I've given it three years of thought. I had hoped if I waited, dad would've forgotten him by now and we could have a- a regular wedding and everybody happy.",0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M032,But if that can't happen then I'll just get out.,0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M033,"I'll get out. I'll go get married someplace else, I- I'll live someplace else, maybe New York.",0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F031,Are you crazy?,0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M035,The business? The business doesn't inspire me.,0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F033,Must you be inspired?,0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M036,"Yeah, I'd like one hour a day. If I have to grub for money all day long, I'd like to go home to something beautiful. I'd like a family. I'd like some kids.",0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_F034,You don't want to think like that.,0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M040,"Well, I am thinking like that.",0,ang
+Session5,Ses05M_script01_1b,Ses05M_script01_1b_M041,"No, you don't. I'm a pretty tough guy.",0,ang
+Session5,Ses05M_script01_2,Ses05M_script01_2_M000,Why does that bother you?,3,neu
+Session5,Ses05M_script01_2,Ses05M_script01_2_M001,"Well, maybe maybe he just wanted to see her again.",3,neu
+Session5,Ses05M_script01_2,Ses05M_script01_2_F002,Nobody comes seven hundred miles just to see.,3,neu
+Session5,Ses05M_script01_2,Ses05M_script01_2_M003,Why do you think he's even thinking that?,3,neu
+Session5,Ses05M_script01_2,Ses05M_script01_2_F004,He's got that about it.,3,neu
+Session5,Ses05M_script01_2,Ses05M_script01_2_F005,"What's going on here, Joe?",0,ang
+Session5,Ses05M_script01_2,Ses05M_script01_2_F015,You above all have got to believe.,0,ang
+Session5,Ses05M_script01_2,Ses05M_script01_2_M015,"What's that suppose to mean, me above all? Look at you, you're shaking.",0,ang
+Session5,Ses05M_script01_2,Ses05M_script01_2_F017,I can't help it.,0,ang
+Session5,Ses05M_script01_2,Ses05M_script01_2_M016,"What have I got to hide, Kate? What the hell is the matter with you?",0,ang
+Session5,Ses05M_script01_3,Ses05M_script01_3_F000,You're the only one I know who loves his parents.,3,neu
+Session5,Ses05M_script01_3,Ses05M_script01_3_F001,It's all right. It's a good thing. It's lovely here. The air is sweet.,2,hap
+Session5,Ses05M_script01_3,Ses05M_script01_3_M001,"So, you're not sorry I came?",2,exc
+Session5,Ses05M_script01_3,Ses05M_script01_3_F003,"Well, your mother, first of all, pretty much told me to leave.",3,neu
+Session5,Ses05M_script01_3,Ses05M_script01_3_M003,Well-,3,neu
+Session5,Ses05M_script01_3,Ses05M_script01_3_F006,"I figured they would, your mother at least.",3,neu
+Session5,Ses05M_script01_3,Ses05M_script01_3_F007,"Well, from her perspective, I mean, why else would I come here?",3,neu
+Session5,Ses05M_script01_3,Ses05M_script01_3_M010,"You feel it's wrong here, don't you; this yard, this chair? I want you to be ready for me, Annie. I- I don't want to win you away from anything.",2,exc
+Session5,Ses05M_script01_3,Ses05M_script01_3_F009,"Oh, Chris I've been ready for a long time.",2,hap
+Session5,Ses05M_script01_3,Ses05M_script01_3_F010,I almost got married two years ago.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M013,You felt something that far back?,2,hap
+Session5,Ses05M_script01_3,Ses05M_script01_3_F012,Everyday since.,2,hap
+Session5,Ses05M_script01_3,Ses05M_script01_3_F013,"Well, I mean, until then you never wrote and when you did, what did you say? I mean, you sure can be ambiguous.",2,exc
+Session5,Ses05M_script01_3,Ses05M_script01_3_M016,"oh, God I kissed Annie. I kissed Annie. I can't How long have I waited to do that?",2,exc
+Session5,Ses05M_script01_3,Ses05M_script01_3_M017,"Oh, Annie, we're gonna live now. I'm going to make you so happy.",2,exc
+Session5,Ses05M_script01_3,Ses05M_script01_3_F015,Not like that you're not.,2,exc
+Session5,Ses05M_script01_3,Ses05M_script01_3_F016,"Like Larry's brother. Do it like you, Chris. What's the matter?",1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M019,Lets go for a ride. I I- I want to be alone with you.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M020,"No, nothing like that.",1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_F019,Even in your letters there was something ashamed.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M021,"Yeah, I suppose I have been. But it's going for me.",1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_F020,You have to tell me.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M022,I don't I don't know where to start.,3,neu
+Session5,Ses05M_script01_3,Ses05M_script01_3_F021,It wouldn't work like this.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M023,It's so mixed up with so many other things.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_F022,"Yeah, sure.",3,neu
+Session5,Ses05M_script01_3,Ses05M_script01_3_M025,I lost them.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_F023,How many?,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M026,Just about all.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M027,"It- It takes time to toss something like that off,I mean, because they weren't just men.",1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M029,I know it's it's just a little thing but that's just the kind of guys I had. They didn't die. They killed themselves for each other.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M030,"I mean that exactly, anymore selfish -- just a little bit more selfish and they would have been here today. And it gave me an idea as I was watching them all go down.",1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M033,It was and then I went home. And it was incredible. It didn't have any meaning there.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M036,"I felt what you said, ashamed somehow because nobody had changed at all.",1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M039,And I guess that included you.,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_F024,Do you still feel like that?,1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M040,"I want you now, Annie.",1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_F025,"Because you can't feel like that anymore, Chris. Because everything you have, you have a right to, me included.",1,sad
+Session5,Ses05M_script01_3,Ses05M_script01_3_M041,"Oh, Annie,",2,exc
+Session5,Ses05M_script01_3,Ses05M_script01_3_F027,[LAUGHTER] What will I do with a fortune?,2,hap
+Session5,Ses05M_script01_3,Ses05M_script01_3_M042,Annie I am going to make you a fortune.,2,hap
+Session5,Ses05M_script02_1,Ses05M_script02_1_M000,"What time is it? They're supposed to run around midnight. Oh, this is great, isn't it? Look at the night we've got here. It couldn't be better. Actually, I wanted to go a little further up the coast you know to get away from all the lights and the people. I was afraid we might miss it though, so how are you doing?",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_F000,Fine.,1,sad
+Session5,Ses05M_script02_1,Ses05M_script02_1_M001,"What's that? Is that- Wait, is that foam? I can't even tell. Oh Actually, I guess if I can't tell then it probably isn't it, is it? It will probably be unmistakable, don't you think?",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M002,"This is great. How are you doing? Oh, no. Oh, do you know what I did? I forgot the flashlight. How could I be so stupid? I forgot the flashlight.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_F001,What flashlight?,3,neu
+Session5,Ses05M_script02_1,Ses05M_script02_1_M003,"The flashlight. The silver one. There's only one, isn't there? Stupid.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M005,"Oh, no, of course, our flashlight. Me flashlight is to you flashlight, naturally.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M006,"How could we have forgotten it? Well, I hope the moon stays out. I wonder, do they always run during a full moon? I can't remember, was the moon full last year, do you remember?",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M007,"Are you cold? Do you want my jacket? We should have brought the blanket, our blanket. Oh, this is great. I didn't even think to bring a six pack. Oh, a six pack would be just the ticket right about now.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M008,"I can't believe I forgot.I'm like a little kid. I'm surprised I made it out of the house with my fly zipped. Oh, [LAUGHTER]",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M009,"Oh, I wonder if they can hear me or if they can feel the vibrations when we move around in the sand. or something",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M010,Do you want my jacket?,2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M017,"Honey, it's a natural phenomenon. I mean, this kind of thing only happens once a year. It's a great opportunity.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M018,"I mean, Think about people in Kansas, they've got to get like you know plane tickets and hotel reservations just to see this. We're just forty minutes away. It's just too good of an opportunity to pass up.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M019,"Yeah, but all that time on the beach is the highlight of their little lives. You know,",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M020,"and all that about flopping around, it's like laying eggs or what do you -- spawning or mating or something like that.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M021,"I mean, this is a big night for these guys. You know, life's last orgy.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M023,"All right. But they are fish that do something no other fish do. Like the swallows were turning into Capistrano or Lemmings jumping off the cliffs, you know like that. There's- There's magic here and mystery. And a little bit of the unexplainable. You know, I can't see how you could not be interested.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_F016,I'm just not.,1,sad
+Session5,Ses05M_script02_1,Ses05M_script02_1_M028,"Look there. What is that? Is that -- Oh No, that's seaweed.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M029,"Oh, this is great. I wouldn't miss this for the world. I mean, think about this, I know you're not interested but just think about this for a second;",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M030,somewhere out there is a giant mass of silver fish all swimming in this direction. They don't know why they're doing it. We don't know why they're doing it. They didn't- It wasn't a decision. No one took a vote. Nobody sent them an invitation or a map or anything like that. It was just some internal time release fire cracker that went off. And all as one they turned around and formed this giant line as long as the California coastline and they just started swimming. They are swimming right now at this very moment. And And-,2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M031,"And it's single mindedness with no mind. It- It's urgency, it's pure urge. I mean, they didn't make any decisions. They don't ask any questions. They don't give it a name,",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M032,"they just all as one turn around and start swimming to this very point where we are standing now for one last celebration of sex and death. God, it's giving me Goosebumps. Look at all the hairs that are standing up.",2,exc
+Session5,Ses05M_script02_1,Ses05M_script02_1_M033,"Well, so what do you think?",2,exc
+Session5,Ses05M_script02_2,Ses05M_script02_2_M000,"Well, so, what do you think?",2,exc
+Session5,Ses05M_script02_2,Ses05M_script02_2_F000,About what?,3,neu
+Session5,Ses05M_script02_2,Ses05M_script02_2_M001,What I was just saying.,2,exc
+Session5,Ses05M_script02_2,Ses05M_script02_2_F001,It's ridiculous.,3,neu
+Session5,Ses05M_script02_2,Ses05M_script02_2_M005,"uh, Carla Can I ask you a question? no, don't get upset, but are you having your period?",3,neu
+Session5,Ses05M_script02_2,Ses05M_script02_2_F005,"God damn it, Augie. Seriously, you always ask me that. Why do you ask me that? I hate it. It's so insulting.",0,ang
+Session5,Ses05M_script02_2,Ses05M_script02_2_F009,"Twice is every time we've tried, that's ever",0,ang
+Session5,Ses05M_script02_2,Ses05M_script02_2_F010,"No, we won't. It's like waiting up for Santa Clause or something. I feel like as though my whole life is going to be standing on the beach waiting with my eyes opened expectantly, my hands clasped neatly in front of me, waiting for fish to show up. And the fish will not show up.",0,ang
+Session5,Ses05M_script02_2,Ses05M_script02_2_F012,I did want to see it. I always want to see it. I just- I keep thinking this will be the time and it never is.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F013,Do you remember the first time that we came to see the grunion? It was about four years ago right after we got married. We thought I was pregnant. We had a bottle of champagne and no glasses. You asked me to dance. We took off our shoes. And while we were dancing you said the most intimate things to me right in my ear so I could feel them as much as hear them.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F014,"And I remember thinking to myself, finally. I am as happy as I am supposed to be.",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F015,"Dancing barefoot in the sand, drinking champagne out of the bottle.",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_M016,"It was in the car, right? When we were passing Knickerbocker Liquor Locker, you said, Let's stop and get champagne. and I said that times a wasting or something like that, right? You wanted it to be like it was before, right?",3,neu
+Session5,Ses05M_script02_2,Ses05M_script02_2_F016,I would rather not remember some things. I'd rather not hope for something.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F017,No.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F018,No.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F019,No.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F022,No.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F023,I just want- I just want things to turn out the way they are supposed to.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_M024,"Well, welcome to the human race. Do you think this is what I had planned? Do you think that when I proposed that I had this great fantasy going that four years down the road we would end up arguing on the beach over some fish?",0,ang
+Session5,Ses05M_script02_2,Ses05M_script02_2_M025,"Do you think that I thought there would be times when you would look at me like I was used Kleenex or I would look at you and think, good God, when's the next flight to Alaska? No. No, I'm just like you. I thought it would all be like peaches and roses, and sand in our toes, and wind in our hair, and the fish would always come. And the bills would magically pay themselves. And we'd have three fat rosy kids. But, ha ha, baby, the jokes on us!",0,ang
+Session5,Ses05M_script02_2,Ses05M_script02_2_M026,"Because you know what you get, Carla? You know what you get? This.",0,ang
+Session5,Ses05M_script02_2,Ses05M_script02_2_F026,But this isn't at all what I wanted it to be.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_M029,"Now, I know. Me either",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F027,"This is just this. I mean, it's a lot and everything. But it's not, you know, something else. Am I making any sense?",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_M030,I'm trying the best I can.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F028,"I know that, Augie. I do. I know that. And and I know that this meant a lot to you and and it's special, you know, with the sand and the moon but.",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F029,But I just couldn't help thinking about being somewhere else.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_M031,"Maybe if you're with somebody else, too?",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F030,I didn't say that.,1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_M032,"No, I know. But I know I don't make you happy.",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F031,"For heavens sake, Augie, whatever I am doing, I'd rather it be with you.",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_F032,"Yes. Don't you know that? I mean, You're probably the one you wishes you were with somebody else, somebody who didn't take everything so hard and who knew how to enjoy herself.",1,sad
+Session5,Ses05M_script02_2,Ses05M_script02_2_M034,"Actually, now that you mention it, no. I don't.",2,hap
+Session5,Ses05M_script02_2,Ses05M_script02_2_M035,"I don't know. I think this is a pretty good spot. I mean, look at the view of the moon from here.",2,hap
+Session5,Ses05M_script02_2,Ses05M_script02_2_F034,"Yes, I did notice that. It does look really beautiful over the water. Big old white moon.",2,hap
+Session5,Ses05M_script02_2,Ses05M_script02_2_M036,"Oh, well look what we've got here.",2,hap
+Session5,Ses05M_script02_2,Ses05M_script02_2_M037,"Well, it isn't champagne.",2,hap
+Session5,Ses05M_script02_2,Ses05M_script02_2_F037,"No. I'm beginning to think you might be right. I think this might be the spot after all. Augie, I'm sorry.",2,hap
+Session5,Ses05M_script02_2,Ses05M_script02_2_F038,Or not.,2,hap
+Session5,Ses05M_script02_2,Ses05M_script02_2_M040,Or not.,2,hap
+Session5,Ses05M_script03_1,Ses05M_script03_1_M001,I wonder.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F001,"what, Nobody knows we are here except Freda and she wouldn't ring up.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F002,What do we do?,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M003,"We're all right, aren't we, darling, whatever happens?",3,neu
+Session5,Ses05M_script03_1,Ses05M_script03_1_F003,"Now and always, my sweet.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M004,I don't care then.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F004,It was bound to happen sooner or later.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F005,"Oh, it sent shivers up my spine.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M006,"Oh, what shall we do if they suddenly walk in on us.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M007,With the worst- with the most perfect poise?,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M008,"Uhh, It's amazing how once you feel--",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M009,"things that ought to matter most dreadfully don't matter at all when one's happy, do they?",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M010,"Uhh, You mustn't say that, my darling.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M011,"Being that sacred and wonderful thing, love.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M012,"Um What does it all mean? That's what I ask myself in my endless quest for ultimate truth. Dear God, what does it all mean?",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F011,Don't laugh at me. I'm serious.,3,neu
+Session5,Ses05M_script03_1,Ses05M_script03_1_M013,"You mustn't be serious, darling. That's just what they want.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F012,Who's they?,3,neu
+Session5,Ses05M_script03_1,Ses05M_script03_1_M014,"All the futile mortals who try to make life unbearable. Laugh at them, Be flippant. Laugh at everything, all their sacred shibboleths.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M015,uh- the- Being flippant brings out the acid in their damned beauty and light.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F013,"If I laugh at everything, then I must laugh at us too.",3,neu
+Session5,Ses05M_script03_1,Ses05M_script03_1_M016,Certainly you must. We are figures of fun all right.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F015,"Well, will we always bicker and fight?",3,neu
+Session5,Ses05M_script03_1,Ses05M_script03_1_M018,No. That fire will fade along with our passion.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F017,"What if one of us dies, does the other one laugh then?",3,neu
+Session5,Ses05M_script03_1,Ses05M_script03_1_M020,"Yes, yes, with all his might.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M021,"No, no that is quit laughable. The cutting little mystery all done with mirrors.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M022,"So is everyone else in the long run. Let's be superficial and pity the poor philosophers. Let's blow trumpets and squeakers and enjoy the party as long as we can, like little quiet idiotic school children.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M023,"[garbage] Darling, kiss me before your body rots and worms start popping in and out of your eye sockets.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F020,"Elliott, worms don't pop.",3,neu
+Session5,Ses05M_script03_1,Ses05M_script03_1_M024,"I don't care what you do. See, you could paint your body bright green and and run naked through the Place Vendome and run with every man in the world and I shan't say a word. As long as I know that you love me best.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M025,Do you remember that awful scene we had in Venice?,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M026,The one where you bought that little painted wooden stake and you put it on my bed.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M027,Horrible thing. I hated it.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F024,I know you did. You threw it out the window into the Canal below. I don't think I'll ever forgive you for that.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M028,How long did that roue last?,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M029,"Oh, The worst one was in Cannes when your curling iron burnt a hole in my new dressing gown?",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F026,"Oh, It burnt my comb and all the towels in the bathroom.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M030,"[LAUGHTER] That was quit a rouser, wasn't it?",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M031,"Oh, I didn't hit you very hard.",2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M032,I should never forget his face. [LAUGHTER],2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_M033,We were very much younger then.,2,exc
+Session5,Ses05M_script03_1,Ses05M_script03_1_F031,You knew there was nothing in that.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F001,Only a trivial little broach.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F002,Not at all. I quite like it. I wear it often.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F004,"Oh, maybe a little. Nothing serious.",3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F005,"Well, what of it.",3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F006,Well it gave him a lot of pleasure and it didn't hurt me.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_M008,"Well, that's a nice point of view I must say.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M009,"Me, too, bored stiff.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M010,Do you want some brandy?,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F009,No thanks.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_M011,I think I'll have a little.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F012,It's becoming a habit with you.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_M015,"Amanda, really.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F015,Just making myself fascinating for you.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F017,"No, it isn't.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F018,"No, it it is not, be quiet.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M020,It's a pity you didn't have a little bit more brandy. It might have made you a little less disagreeable.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M023,They snap.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M024,"So, did you see much of Peter Burden after the divorce?",3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_F023,"Yes, I did quite a lot.",3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_M025,"You must have let him kiss you quite a good deal more then, huh?",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M026,"I'm sure you had a riotous time, no restrain at all, very enjoyable. You never had much anyway.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M027,I am not the slightest bit drunk.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F026,You always had a weak head.,3,neu
+Session5,Ses05M_script03_2,Ses05M_script03_2_M028,I do believe that I have said already that I had three minuet liquor glasses of brandy in the entire evening. A child of two couldn't get drunk of that.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M029,"Oh, really? How about a child of three, or child of six, what about a child of nine?",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F028,Not- Would you shut up.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M030,"You know, we could get a really good debate going on about this. You know intemperate tots.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M031,You know what? That's a very good idea. I think I will.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M032,"You better turn that off, I think.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M033,Because it's very late and you'll disturb the people upstairs.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M034,"Well, there are people downstairs, I suppose.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M035,This is no time of the year for Tunis.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M036,I do I shall do no such thing.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F034,Very well. If you have to be boorish and idiotic.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M037,Turn it off. It's driving me mad.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F035,You are far too temperamental. Try to control yourself.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M038,Turn it off!,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F036,Go away! Go away! I- I hate you.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M039,Very amusing indeed.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F037,"You know what, I'm sick and tire of listening to you. You're a-- You're a total sadistic bully.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M040,Ja! Very funny.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F038,"Stop. Would you just go away? I mean, you're conceited, and overbearing, and utterly impossible.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M041,"You are a vile tempered, wicked living, evil little beast. And I hope I never set eyes on you ever again.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F039,This is the end! Do you understand me? This is the end.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M042,"Oh, you're not going like this.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F040,"Yes, I am. Let go with me",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M043,"[GARBAGE] No, you're not.",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F041,"You are a cruel fiend and I-I loath you. I thank God I realized who you are before I decided to marry you again. Oh my God, never!",0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M044,oh! Marry you again? I wouldn't marry you again if you came crawling to me on bended knee.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F042,Beast,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_M045,You're a wicked little vampire. And I pray to God I never set eyes on you again as long as I live.,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F043,Brute,0,ang
+Session5,Ses05M_script03_2,Ses05M_script03_2_F044,pig,0,ang
