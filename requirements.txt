@@ -1,0 +1,11 @@
+face-recognition
+facenet_pytorch
+Pillow
+scikit-learn
+scipy
+six
+torch
+torchvision
+tqdm
+transformers
+pytorch_transformers
