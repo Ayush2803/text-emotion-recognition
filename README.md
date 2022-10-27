@@ -19,13 +19,13 @@ Test Dataset:  1241
 
 ## Instructions to run
 1. pip install -r requirements.txt
-2. python main.py
-   [--lr_roberta=<float>              (default=2e-6)
-    --lr_other=<float>                (default=5e-5)  
-    --weight_decay_text=<float>       (default=0.01)
-    --weight_decay_other=<float>      (default=1e-3)
-    --MAX_EPOCH=<int>                 (default=20)
-    --MIN_EPOCH=<int>                 (default=0)
+2. python main.py <br>
+   [--lr_roberta=<float>              (default=2e-6) <br>
+    --lr_other=<float>                (default=5e-5)  <br>
+    --weight_decay_text=<float>       (default=0.01) <br>
+    --weight_decay_other=<float>      (default=1e-3) <br>
+    --MAX_EPOCH=<int>                 (default=20) <br>
+    --MIN_EPOCH=<int>                 (default=0) <br>
     ]
 
 ## Result
