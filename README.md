@@ -20,13 +20,13 @@ Test Dataset:  1241
 ## Instructions to run
 1. pip install -r requirements.txt
 2. python main.py <br>
-   [--lr_roberta= \<float\>              (default=2e-6) <br>
-    --lr_other=<float>                (default=5e-5)  <br>
-    --weight_decay_text=<float>       (default=0.01) <br>
-    --weight_decay_other=<float>      (default=1e-3) <br>
-    --MAX_EPOCH=<int>                 (default=20) <br>
-    --MIN_EPOCH=<int>                 (default=0) <br>
-    ]
+   <t>[--lr_roberta=\<float\> <t>              (default=2e-6) <br>
+    <t>--lr_other=\<float\>        <t>        (default=5e-5)  <br>
+    <t>--weight_decay_text=\<float\>  <t>     (default=0.01) <br>
+    <t>--weight_decay_other=\<float\>    <t>  (default=1e-3) <br>
+    <t>--MAX_EPOCH=\<int\>                 <t>(default=20) <br>
+    <t>--MIN_EPOCH=\<int\>                 <t>(default=0) <br>
+    <t>]
 
 ## Result
 Weighted Accuracy: 77.35%
